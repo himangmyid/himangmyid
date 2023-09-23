@@ -1,0 +1,26 @@
+### Hi there 👋
+
+# Hello World! Benidiktus Himang here
+
+
+### I'm just a person who likes the latest technology and editing a bit of code.
+
+# 📖 About me
+- there's actually nothing interesting about me
+- What do you expect from me?
+- Jika Anda suka klik bintang, jika tidak, tutup tab layar Anda, terima kasih.
+
+
+**himangmyid/himangmyid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
