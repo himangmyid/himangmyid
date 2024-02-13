@@ -27,6 +27,6 @@
 ## Support Me 
 
 [<img alt="Paypal"  src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" />](https://paypal.me/DogGhozt)
-[<img alt="Tako.id"  src="https://tako.id/_next/static/media/logo.50498557.svg" />](https://tako.id/@himang/gift)
+[<img alt="Tako.id" width="50" src="https://tako.id/_next/static/media/logo.50498557.svg" />](https://tako.id/@himang/gift)
 
 
