@@ -24,3 +24,4 @@
 - 😄 Pronouns: himang
 - ⚡ Fun fact: I like him, but he doesn't
 
+[<img alt="alt_text" width="40px" src="images/image.PNG" />](https://www.google.com/)
