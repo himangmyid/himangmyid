@@ -38,6 +38,7 @@
 [![Waren Gonzaga Github Stats](https://github-readme-stats.vercel.app/api?username=himangmyid&show_icons=true&count_private=true)](https://github.com/warengonzaga/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=warengonzaga&layout=compact)](https://github.com/warengonzaga/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=himangmyid&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himangmyid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
