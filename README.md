@@ -24,6 +24,14 @@
 - 😄 Pronouns: himang
 - ⚡ Fun fact: I like him, but he doesn't
 
+## Other
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=himangmyid)
+
+</details>
+
 ## Support Me 
 
 [<img alt="Paypal"  src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" />](https://paypal.me/DogGhozt) 
