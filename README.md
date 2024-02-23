@@ -32,6 +32,16 @@
 
 </details>
 
+<details>
+    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
+
+[![Waren Gonzaga Github Stats](https://github-readme-stats.vercel.app/api?username=himangmyid&show_icons=true&count_private=true)](https://github.com/warengonzaga/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=warengonzaga&layout=compact)](https://github.com/warengonzaga/github-readme-stats)
+
+
+
+</details>
+
+
 ## Support Me 
 
 [<img alt="Paypal"  src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" />](https://paypal.me/DogGhozt) 
