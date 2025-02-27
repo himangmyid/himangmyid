@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # Hello World! Benidiktus Himang here
-
+<!-- Social badges section -->
 <p align="center">
   <a href="https://www.youtube.com/channel/UCX8aSUkYR0tAW3md1JFmhnQ?sub_confirmation=1"><img width="40px" alt="Youtube" title="Youtube" src="https://i.imgur.com/EbkurfK.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -27,17 +27,17 @@
   <a href="https://github.com/himangmyid?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/himangmyid?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/himangmyid/">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+
 </p>
 
 <br/>
 
-<!-- GitHub Star link -->
+<!-- GitHub Star link 
 <p align="center">
   <a href="https://stars.github.com/profiles/denvercoder1/">
     <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
 </p>
-
+-->
 
 ### I'm just a person who likes the latest technology and editing a bit of code.
 
