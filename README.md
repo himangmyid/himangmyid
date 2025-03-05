@@ -89,6 +89,11 @@
 [<img alt="Paypal"  src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" />](https://paypal.me/DogGhozt) 
 
 
-<a href="https://www.buymeacoffee.com/himang" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/himang" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 150px !important;" ></a>
 
+<p align="right">
+  <a href="#top">
+    <img src="https://img.icons8.com/?size=100&id=114041&format=png" alt="Back to top" width="70" height="70">
+  </a>
+</p>
 
