@@ -195,7 +195,7 @@
 </div>
 
 ###
-  
+  <div align="center">
   <!-- U8Views Counter -->
   <a href="https://u8views.com/github/himangmyid">
     <img src="https://u8views.com/api/v1/github/profiles/46196768/views/day-week-month-total-count.svg" 
