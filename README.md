@@ -1,6 +1,9 @@
-### Hi there 👋
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72E66&width=500&height=70&lines=Hi+friend%2C+who's+there%3F;Let+me+introduce+myself;+Benidiktus+Himang;Just+Call+Himang" alt="Typing SVG" /></a>
+<p/>
 
-# Hello World! Benidiktus Himang here
+
+
 <!-- Social badges section -->
 <p align="center">
   <a href="https://www.youtube.com/channel/UCX8aSUkYR0tAW3md1JFmhnQ?sub_confirmation=1"><img width="40px" alt="Youtube" title="Youtube" src="https://i.imgur.com/EbkurfK.png"/></a>
@@ -14,9 +17,7 @@
   <a href="https://www.buymeacoffee.com/himang"><img width="40px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/hx4kKv7.png"/></a>
 </p>
 
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+
 <p align="center">
   <a href="https://www.youtube.com/channel/UCX8aSUkYR0tAW3md1JFmhnQ?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
@@ -43,8 +44,7 @@
 
 # 📖 About me
 
-<details>
-    <summary>🤴 <b>Me</b></summary><br/>
+<details><summary><h2>🤴 Me </h2></summary><br/>
 
 - there's actually nothing interesting about me
 - What do you expect from me?
@@ -65,6 +65,30 @@
 - ⚡ Fun fact: I like him, but he doesn't
 
 </details>
+
+<h2>🛠️ | Languages, Frameworks, and Tools </h2>
+<table align="center">
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=laravel,php"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,html,css,js,ts,"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=github"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other & Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,codepen,ps,sublime,unity,windows"/></td>
+    </tr>
+</table>
 
 
 ## Other
@@ -91,9 +115,13 @@
 
 <a href="https://www.buymeacoffee.com/himang" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 150px !important;" ></a>
 
+<a href="https://u8views.com/github/himangmyid"><img src="https://u8views.com/api/v1/github/profiles/46196768/views/day-week-month-total-count.svg"></a>
+
+
+
+
 <p align="right">
   <a href="#top">
     <img src="https://img.icons8.com/?size=100&id=114041&format=png" alt="Back to top" width="70" height="70">
   </a>
 </p>
-
