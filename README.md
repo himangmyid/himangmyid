@@ -186,23 +186,7 @@
 
 
 
-## Support Me 
 
-<div align="center">
-  <!-- PayPal -->
-  <a href="https://paypal.me/DogGhozt">
-    <img alt="Paypal" src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg"  style="height: 60px; width: 150px;" />
-  </a> <br/>
-  
-  <!-- Buy Me A Coffee -->
-  <a href="https://www.buymeacoffee.com/himang" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
-         alt="Buy Me A Coffee" 
-         style="height: 60px; width: 150px;" />
-  </a> <br/><br/>
-
-
-###
 
 <br clear="both">
 
