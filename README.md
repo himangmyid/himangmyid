@@ -1,21 +1,71 @@
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72E66&width=500&height=70&lines=Hi+friend%2C+who's+there%3F;Let+me+introduce+myself;+Benidiktus+Himang;Just+Call+Himang" alt="Typing SVG" /></a>
-<p/>
-
-
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72E66&width=500&height=70&lines=Hi+friend%2C+who's+there%3F;Let+me+introduce+myself;+Benidiktus+Himang;Just+Call+Himang" 
+         alt="Typing SVG" />
+  </a>
+</div>
 <!-- Social badges section -->
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCX8aSUkYR0tAW3md1JFmhnQ?sub_confirmation=1"><img width="40px" alt="Youtube" title="Youtube" src="https://i.imgur.com/EbkurfK.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://s.id/linkedin-himang"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/kt7S9SH.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/himangmyid"><img width="40px" alt="Twitter" title="Twitter" src="https://i.imgur.com/7vCYMaG.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/YdzJAaN3Xe" alt="Discord" title="Dev Pro Tips Discord Server"><img width="40px" src="https://i.imgur.com/ulRi4lR.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.buymeacoffee.com/himang"><img width="40px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/hx4kKv7.png"/></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://s.id/linkedin-himang" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/himangmyid" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://discord.gg/MP2pSKjXSB" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/channel/UCX8aSUkYR0tAW3md1JFmhnQ?sub_confirmation=1" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://paypal.me/DogGhozt" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.twitch.tv/himanghub" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://s.id/himang" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://instagram.com/himang_dg" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.facebook.com/himangbd181021/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+      </a>
+    </td>
+    <td align="center">
+  <a href="https://trakteer.id/himang/tip" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=13013&format=png&color=000000" width="52" height="40" alt="buy me a coffee" />
+  </a>
+</td>
+
+  </tr>
+</table>
+
+
+
+
 
 
 <p align="center">
@@ -33,6 +83,12 @@
 
 <br/>
 
+<p align="center">
+  <a href="https://github.com/Jurredr/github-widgetbox">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=himangmyid&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox" />
+  </a>
+</p>
+
 <!-- GitHub Star link 
 <p align="center">
   <a href="https://stars.github.com/profiles/denvercoder1/">
@@ -40,7 +96,13 @@
 </p>
 -->
 
-### I'm just a person who likes the latest technology and editing a bit of code.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72E66&width=500&height=70&lines=I+love+the+latest+technology.;and+edit+a+bit+of+code." alt="Typing SVG" />
+  </a>
+</p>
+
+
 
 # 📖 About me
 
@@ -66,29 +128,44 @@
 
 </details>
 
-<h2>🛠️ | Languages, Frameworks, and Tools </h2>
+# Languages, Frameworks, and Tools
 <table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=laravel,php"/></td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=laravel,php"/>
+        </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,html,css,js,ts,"/></td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=nextjs,bootstrap,html,css"/>
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" />
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" />
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" />
+            <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="50" />
+        </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql"/></td>
+        <td>
+            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" />
+        </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=github"/></td>
+        <td>
+            <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" />
+        </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other & Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,codepen,ps,sublime,unity,windows"/></td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=vscode,codepen,ps,sublime,unity,windows"/>
+        </td>
     </tr>
 </table>
+
 
 
 ## Other
@@ -108,15 +185,39 @@
 </details>
 
 
+
 ## Support Me 
 
-[<img alt="Paypal"  src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" />](https://paypal.me/DogGhozt) 
+<div align="center">
+  <!-- PayPal -->
+  <a href="https://paypal.me/DogGhozt">
+    <img alt="Paypal" src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg"  style="height: 60px; width: 150px;" />
+  </a> <br/>
+  
+  <!-- Buy Me A Coffee -->
+  <a href="https://www.buymeacoffee.com/himang" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
+         alt="Buy Me A Coffee" 
+         style="height: 60px; width: 150px;" />
+  </a> <br/><br/>
 
 
-<a href="https://www.buymeacoffee.com/himang" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 150px !important;" ></a>
+###
 
-<a href="https://u8views.com/github/himangmyid"><img src="https://u8views.com/api/v1/github/profiles/46196768/views/day-week-month-total-count.svg"></a>
+<br clear="both">
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himangmyid&radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+  
+  <!-- U8Views Counter -->
+  <a href="https://u8views.com/github/himangmyid">
+    <img src="https://u8views.com/api/v1/github/profiles/46196768/views/day-week-month-total-count.svg" 
+         alt="GitHub Profile Views" />
+  </a> <br/><br/>
+</div>
 
 
 
@@ -125,3 +226,4 @@
     <img src="https://img.icons8.com/?size=100&id=114041&format=png" alt="Back to top" width="70" height="70">
   </a>
 </p>
+
