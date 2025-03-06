@@ -106,17 +106,14 @@
 
 # 📖 About me
 
-<details><summary><h2>🤴 Me </h2></summary><br/>
+<details><summary><h2>🤴 Spoiler Me </h2></summary><br/>
 
 - there's actually nothing interesting about me
 - What do you expect from me?
 - Jika Anda suka klik bintang, jika tidak, tutup tab layar Anda, terima kasih.
 
 
-
-
 - Here are some ideas to get you started:
-
 - 🔭 I'm currently working on a small project
 - 🌱 I'm learning a new language
 - 👯 I want to collaborate in a normal team
@@ -140,10 +137,9 @@
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
         <td>
             <img height="40" src="https://skillicons.dev/icons?i=nextjs,bootstrap,html,css"/>
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" />
-            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" />
-            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" />
-            <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="50" />
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" height="40" width="50" />
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" height="40" width="50" />
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" height="40" width="50" />
         </td>
     </tr>
     <tr>
@@ -155,13 +151,14 @@
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
         <td>
-            <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" />
+            <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" height="40" width="50" />
         </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other & Tools:</td>
         <td>
             <img height="40" src="https://skillicons.dev/icons?i=vscode,codepen,ps,sublime,unity,windows"/>
+          <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" height="40" width="50" />
         </td>
     </tr>
 </table>
