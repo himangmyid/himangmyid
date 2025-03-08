@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72E66&width=500&height=70&lines=Hi+friend%2C+who's+there%3F;Let+me+introduce+myself;+Benidiktus+Himang;Just+Call+Himang" 
-         alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72E66&width=500&height=70&lines=Hi+friend%2C+who's+there%3F;Let+me+introduce+myself;+Benidiktus+Himang;Just+Call+Himang" alt="Typing SVG" />
   </a>
 </div>
+<hr/>
 <!-- Social badges section -->
 <table align="center">
   <tr>
@@ -59,15 +59,8 @@
     <img src="https://img.icons8.com/?size=100&id=13013&format=png&color=000000" width="52" height="40" alt="buy me a coffee" />
   </a>
 </td>
-
   </tr>
 </table>
-
-
-
-
-
-
 <p align="center">
   <a href="https://www.youtube.com/channel/UCX8aSUkYR0tAW3md1JFmhnQ?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
@@ -78,31 +71,19 @@
   <a href="https://github.com/himangmyid?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/himangmyid?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/himangmyid/">
-
 </p>
-
 <br/>
-
+<hr/>
 <p align="center">
   <a href="https://github.com/Jurredr/github-widgetbox">
     <img src="https://github-widgetbox.vercel.app/api/profile?username=himangmyid&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox" />
   </a>
 </p>
-
-<!-- GitHub Star link 
-<p align="center">
-  <a href="https://stars.github.com/profiles/denvercoder1/">
-    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
-</p>
--->
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72E66&width=500&height=70&lines=I+love+the+latest+technology.;and+edit+a+bit+of+code." alt="Typing SVG" />
   </a>
 </p>
-
-
 
 # 📖 About me
 
@@ -125,7 +106,7 @@
 
 </details>
 
-# Languages, Frameworks, and Tools
+<h1 align="center"> Languages, Frameworks, and Tools </h1>
 <table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
