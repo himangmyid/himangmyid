@@ -22,9 +22,49 @@
                 <p class="text-gray-600 dark:text-gray-300">Developer & Content Creator</p>
                 <a href="https://github.com/himangmyid" target="_blank" class="mt-4 inline-block bg-blue-500 text-white px-4 py-2 rounded-lg shadow hover:bg-blue-600">Visit GitHub</a>
                 
-                <h2 class="text-2xl font-semibold mt-6">Projects</h2>
-                <ul id="projects" class="mt-4 space-y-2 text-left"></ul>
             </div>
+
+            <div class="max-w-4xl mx-auto p-6">
+                <h1 class="text-3xl font-bold text-center mb-6">My GitHub Repositories</h1>
+                <div id="repo-container" class="grid grid-cols-1 md:grid-cols-2 gap-4"></div>
+            </div>
+        
+            <script>
+                const username = "himangmyid"; // Ganti dengan username GitHub kamu
+                const repoContainer = document.getElementById("repo-container");
+        
+                async function fetchRepos() {
+                    try {
+                        const response = await fetch(`https://api.github.com/users/${username}/repos`);
+                        const repos = await response.json();
+        
+                        repos.forEach(repo => {
+                            const repoCard = document.createElement("div");
+                            repoCard.className = "bg-gray-800 p-4 rounded-lg shadow-lg border border-gray-700 hover:scale-105 transition transform duration-300";
+        
+                            repoCard.innerHTML = `
+                                <a href="${repo.html_url}" target="_blank" class="block">
+                                    <h2 class="text-lg font-semibold text-blue-400 flex items-center">
+                                        <img src="https://img.icons8.com/color/24/000000/source-code.png" class="mr-2"/> ${repo.name}
+                                    </h2>
+                                    <p class="text-gray-400 text-sm">${repo.description || "No description"}</p>
+                                    <div class="flex items-center text-gray-300 text-sm mt-2">
+                                        <span class="mr-3"><img src="https://img.icons8.com/color/18/000000/programming.png"/> ${repo.language || "Unknown"}</span>
+                                        <span class="mr-3"><img src="https://img.icons8.com/color/18/000000/star.png"/> ${repo.stargazers_count}</span>
+                                        <span><img src="https://img.icons8.com/color/18/000000/git.png"/> ${repo.forks_count}</span>
+                                    </div>
+                                </a>
+                            `;
+        
+                            repoContainer.appendChild(repoCard);
+                        });
+                    } catch (error) {
+                        console.error("Error fetching repositories:", error);
+                    }
+                }
+        
+                fetchRepos();
+            </script>
         </body>
         </html>
         
