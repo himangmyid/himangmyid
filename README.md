@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="#about-me">About</a> •
+  <a href="#-about-me">About</a> •
   <a href="#languages-frameworks-and-tools">Tech Stack</a> •
   <a href="#other">Other</a> •
-  <a href="#github-awards">GitHub Awards</a> •
-  <a href="#github-stats">GitHub Stats</a>
+  <a href="#-github-awards">GitHub Awards</a> •
+  <a href="#-github-stats">GitHub Stats</a>
 </p>
 
 <div align="center">
