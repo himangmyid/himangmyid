@@ -138,8 +138,9 @@
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other & Tools:</td>
         <td>
+          <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/cursor.png" alt="Cursor" height="40" />
             <img height="40" src="https://skillicons.dev/icons?i=vscode,codepen,ps,sublime,unity,windows"/>
-          <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" height="40" width="50" />
+            <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" height="40" width="50" />
         </td>
     </tr>
 </table>
