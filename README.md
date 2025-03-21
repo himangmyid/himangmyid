@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="#about-me">About</a> •
+  <a href="#languages-frameworks-and-tools">Tech Stack</a> •
+  <a href="#other">Other</a> •
+  <a href="#github-awards">GitHub Awards</a> •
+  <a href="#github-stats">GitHub Stats</a>
+</p>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72E66&width=500&height=70&lines=Hi+friend%2C+who's+there%3F;Let+me+introduce+myself;+Benidiktus+Himang;Just+Call+Himang" alt="Typing SVG" />
