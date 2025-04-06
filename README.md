@@ -82,11 +82,7 @@
 </p>
 <br/>
 <hr/>
-<p align="center">
-  <a href="https://github.com/Jurredr/github-widgetbox">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=himangmyid&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox" />
-  </a>
-</p>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72E66&width=500&height=70&lines=I+love+the+latest+technology.;and+edit+a+bit+of+code." alt="Typing SVG" />
