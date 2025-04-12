@@ -121,10 +121,13 @@
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
         <td>
-            <img height="40" src="https://skillicons.dev/icons?i=nextjs,bootstrap,html,css"/>
+            <img src="https://himangmyid.github.io/Tech-icon-svg/icon/html-icon.svg" alt="HTML Icon" height="40" width="50">
+          <img src="https://himangmyid.github.io/Tech-icon-svg/icon/css-icon.svg" alt="CSS Icon" height="40" width="50">
+          <img src="https://himangmyid.github.io/Tech-icon-svg/icon/nextjs-icon.svg" alt="Next.js Icon"  height="40" width="50">
+            <img height="40" src="https://skillicons.dev/icons?i=bootstrap"/>
             <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" height="40" width="50" />
             <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" height="40" width="50" />
-            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" height="40" width="50" />
+          <img src="https://himangmyid.github.io/Tech-icon-svg/icon/react-icon.svg" height="40" width="50" />
         </td>
     </tr>
     <tr>
