@@ -110,18 +110,19 @@
             <img height="40" src="https://skillicons.dev/icons?i=laravel,php"/>
         </td>
     </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td>
-            <img src="https://himangmyid.github.io/Tech-icon-svg/icon/html-icon.svg" alt="HTML Icon" height="40" width="50">
-          <img src="https://himangmyid.github.io/Tech-icon-svg/icon/css-icon.svg" alt="CSS Icon" height="40" width="50">
-          <img src="https://himangmyid.github.io/Tech-icon-svg/icon/nextjs-icon.svg" alt="Next.js Icon"  height="40" width="50">
-            <img height="40" src="https://skillicons.dev/icons?i=bootstrap"/>
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" height="40" width="50" />
-            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" height="40" width="50" />
-          <img src="https://himangmyid.github.io/Tech-icon-svg/icon/react-icon.svg" height="40" width="50" />
-        </td>
-    </tr>
+<tr>
+<td><b>Frontend:</b></td>
+<td>
+<img src="https://himangmyid.github.io/Tech-icon-svg/icon/html-icon.svg" height="40"/>
+<img src="https://himangmyid.github.io/Tech-icon-svg/icon/css-icon.svg" height="40"/>
+<img src="https://himangmyid.github.io/Tech-icon-svg/icon/nextjs-icon.svg" height="40"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="40"/>
+<img src="https://techstack-generator.vercel.app/js-icon.svg" height="40"/>
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" height="40"/>
+<img src="https://himangmyid.github.io/Tech-icon-svg/icon/react-icon.svg" height="40"/>
+</td>
+
+</tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
         <td>
